@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukesh123-hub" alt="mukesh123-hub" /></a> </p>
 
-- 🔭 I’m currently working on [Chat-Application](https://github.com/mukesh123-hub/Char-App)
+
 
 - 🌱 I’m currently learning **GenAI**
 
